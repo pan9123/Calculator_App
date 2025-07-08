@@ -2,5 +2,5 @@ projectKey=calculator_app
 serverUrl=http://localhost:9031
 serverVersion=25.6.0.109173
 dashboardUrl=http://localhost:9031/dashboard?id=calculator_app
-ceTaskId=a9b60354-224c-4107-8da2-6e314525d544
-ceTaskUrl=http://localhost:9031/api/ce/task?id=a9b60354-224c-4107-8da2-6e314525d544
+ceTaskId=f63010be-c0b5-4fbb-b381-851b30f587bd
+ceTaskUrl=http://localhost:9031/api/ce/task?id=f63010be-c0b5-4fbb-b381-851b30f587bd
